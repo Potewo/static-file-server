@@ -1,4 +1,4 @@
-module github.com/Potewo/static-file-server
+module sfs
 
 go 1.20
 
